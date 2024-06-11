@@ -15,4 +15,4 @@ String nama = project.hasProperty('nama') ? project.property('nama') : 'Gradle U
 - Untuk menjalankan tugas dengan menjalankan perintah berikut: "./gradlew greetingTask -Pname=YourName"
 - Dependencies yang digubakan dalam project ini yaitu JUnit 5.10.0 dan JUnit Jupiter
 - run Project pada terminal dengan cara : "./gradlew greetingTask -Pname=RomiR"
-- Hasil capture project dapat dilihat pada link berikut
+- Hasil capture project dapat dilihat pada link berikut: https://github.com/romirosmawati/BelajarGradle/blob/main/BelajarGradle/src/main/java/org/belejar/gradle/Screenshot%202024-06-11%20104328.png
